@@ -5,7 +5,7 @@ This capstone project focuses on building a Multi-Process System Monitor, a ligh
 
 # 🔍 Key Features:  
 
-Real-time monitoring of CPU, memory, disk usage, and active processes.
+Real-time monitoring of CPU, memory, disk usage, and active processes. 
 
 Modular architecture using multi-processing for scalable performance.
 
