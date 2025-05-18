@@ -15,6 +15,6 @@ Efficient resource tracking with minimal system overhead.
 
 Logs and reports for post-analysis and debugging.
 
-🛠️ Purpose:
+# 🛠️ Purpose:
 This project demonstrates a practical understanding of process management, system-level programming, and performance analysis. It's a valuable tool for developers, system administrators, or researchers looking to gain insights into system behavior or diagnose performance bottlenecks.
 
