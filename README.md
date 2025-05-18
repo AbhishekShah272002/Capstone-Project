@@ -4,6 +4,7 @@
 This capstone project focuses on building a Multi-Process System Monitor, a lightweight and efficient tool designed to observe and analyze system performance in real time. The project leverages multiprocessing techniques to separate system monitoring tasks into parallel processes, improving efficiency and responsiveness.
 
 # 🔍 Key Features:  
+
 Real-time monitoring of CPU, memory, disk usage, and active processes.
 
 Modular architecture using multi-processing for scalable performance.
