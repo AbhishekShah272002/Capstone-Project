@@ -7,7 +7,7 @@ This capstone project focuses on building a Multi-Process System Monitor, a ligh
 
 Real-time monitoring of CPU, memory, disk usage, and active processes. 
 
-Modular architecture using multi-processing for scalable performance.
+Modular architecture using multi-processing for scalable performance. 
 
 Clean and interactive UI/CLI output to present data in a user-friendly format.
 
